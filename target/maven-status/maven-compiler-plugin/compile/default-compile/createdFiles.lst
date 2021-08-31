@@ -1,6 +1,0 @@
-com\vbw\controller\BikeController.class
-com\vbw\dao\BikeRowMapper.class
-com\vbw\service\BikeManagerService.class
-com\vbw\bo\BikeBo.class
-com\vbw\dto\BikeDto.class
-com\vbw\dao\BikesDao.class
